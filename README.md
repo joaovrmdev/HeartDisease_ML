@@ -20,12 +20,12 @@ Esse projeto pode ser executado de forma direta clicando no botão abaixo: <p><a
 <a id="tecnologias"></a>
 ## 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:</br>
-○ Linguagem:
-- [Jupyter notebook](https://jupyter.org/)</br>
-○ Bibliotecas:
-- [Seaborn](https://seaborn.pydata.org/)
-- [Pandas](https://pandas.pydata.org/)
-- [Matplotlib](https://matplotlib.org/)
+- Linguagem:
+ -  [Jupyter notebook](https://jupyter.org/)</br>
+- Bibliotecas:
+ -  [Seaborn](https://seaborn.pydata.org/)
+ -  [Pandas](https://pandas.pydata.org/)
+ -  [Matplotlib](https://matplotlib.org/)
 
 ### Autor
 <a>
