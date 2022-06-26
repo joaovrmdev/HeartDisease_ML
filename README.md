@@ -19,7 +19,7 @@ Esse projeto pode ser executado de forma direta clicando no botão abaixo: <p><a
 
 <a id="tecnologias"></a>
 ## 🛠 Tecnologias
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas foram usadas na construção do projeto:</br>
 Linguagem:
 - [Jupyter notebook](https://jupyter.org/)</br>
 Bibliotecas:
