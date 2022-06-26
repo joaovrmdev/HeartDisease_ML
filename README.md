@@ -34,5 +34,5 @@ As seguintes ferramentas foram usadas na construção do projeto:</br>
 
 Feito com dedicação e curiosidade.
 
-[![Github Badge](https://img.shields.io/github/followers/joaovrmdev?style=social)(https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fjoaovrmdev)
+[![Github Badge](https://img.shields.io/github/followers/joaovrmdev?style=social)(https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fjoaovrmdev)]
 [![Gmail Badge](https://img.shields.io/badge/-joao.mata1111@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.mata1111@gmail.com)](mailto:joao.mata1111@gmail.com)
