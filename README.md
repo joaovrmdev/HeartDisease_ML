@@ -11,7 +11,7 @@
 <!--te-->
 <a id="Sobre"></a>
 ## Sobre 
-    <p>Esse projeto busca a criação de um sistema preditivo para "Heart disease" e foi inteiramente desenvolvido com a linguagem Jupyter Notebook. Criei ele como tarefa ao Grupo de estudos da Hype.</p>
+    Sistema preditivo para "Heart disease", inteiramente desenvolvido com a linguagem Jupyter Notebook. Criei ele como tarefa ao Grupo de estudos da Hype.</p>
 
 <a id="Instalacao"></a>
 ## Instalação
