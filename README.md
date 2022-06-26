@@ -21,7 +21,7 @@ Esse projeto pode ser executado de forma direta clicando no botão abaixo: <p><a
 ## 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 Linguagem:
-- [Jupyter notebook](https://jupyter.org/)
+- [Jupyter notebook](https://jupyter.org/)</br>
 Bibliotecas:
 - [Seaborn](https://seaborn.pydata.org/)
 - [Pandas](https://pandas.pydata.org/)
