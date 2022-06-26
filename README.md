@@ -1,8 +1,7 @@
 # HeartDisease_ML
 Status: Concluído
-Sistema preditivo para doenças cardiovasculares, desenvolvido como trabalho para meu projeto de extensão na Hype.\n
-![Badge](https://img.shields.io/github/license/joaovrmdev/HeartDisease_ML?style=flat-square)
-\n
+Sistema preditivo para doenças cardiovasculares, desenvolvido como trabalho para meu projeto de extensão na Hype.  
+![Badge](https://img.shields.io/github/license/joaovrmdev/HeartDisease_ML?style=flat-square)  
 Tabela de conteúdos
 =================
 <!--ts-->
