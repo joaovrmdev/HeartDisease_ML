@@ -45,5 +45,5 @@ Bibliotecas:
 
 Feito com dedicação e curiosidade.
 
-
-[![Gmail Badge](https://img.shields.io/badge/-E-mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.mata1111@gmail.com)](mailto:joao.mata1111@gmail.com)
+[![Github badge](https://img.shields.io/github/followers/joaovrmdev?style=social)]
+[![Gmail Badge](https://img.shields.io/badge/-joao.mata1111@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.mata1111@gmail.com)](mailto:joao.mata1111@gmail.com)
