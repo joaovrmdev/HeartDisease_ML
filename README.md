@@ -11,7 +11,7 @@
 <!--te-->
 <a id="Sobre"></a>
 ## Sobre 
-Sistema preditivo para "Heart disease", inteiramente desenvolvido com a linguagem Jupyter Notebook. Criei ele como tarefa ao Grupo de estudos da Hype.
+Sistema preditivo para "Heart disease", inteiramente desenvolvido com a linguagem "Jupyter Notebook"/Python. Criei ele como tarefa ao Grupo de estudos da Hype.
 
 <a id="Instalacao"></a>
 ## Instalação
